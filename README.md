@@ -1,1 +1,5 @@
-# lab3_Estupi-an_Castiblanco_Leal_2025-2
+# Laboratorio-3
+*integrantes*
+- Karol Estefany Estupiñan Viancha
+- Julian David Castiblanco Real
+- Juan Carlos Leal Cruz
