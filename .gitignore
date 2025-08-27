@@ -1,0 +1,30 @@
+# Compilación
+target/
+*.class
+
+# Archivos de logs
+*.log
+
+# Configuración de IDEs (Eclipse, IntelliJ, NetBeans)
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+nbproject/private/
+out/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Dependencias locales
+*.jar
+*.war
+*.ear
+
+# Archivos temporales
+*.swp
+*.swo
+*.tmp
+*.bak
