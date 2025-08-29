@@ -46,17 +46,22 @@ ___
 
 **Evidencia:**
 - **Diagrama de contexto:**
+
 <img width="1378" height="817" alt="image" src="https://github.com/user-attachments/assets/e7e05e1f-d174-4839-8425-5c66473e9bd0" />
----
+
 - **Diagrama de Casos de uso:**
+
 <img width="922" height="828" alt="image" src="https://github.com/user-attachments/assets/9fe27ac2-bd90-48b5-8b51-9affcb4735b4" />
----
+
 - **Historias de Usuario:**
+
 <img width="1389" height="484" alt="image" src="https://github.com/user-attachments/assets/809d53fd-7702-4c36-8471-b43f933b2091" />
----
+
 - **Tabla de Excel:**
+
 <img width="771" height="320" alt="image" src="https://github.com/user-attachments/assets/aae45c66-684a-4fe4-a2e2-d4d94fac3fd8" />
 - **Diagrama de Clases:**
+
 <img width="2594" height="1157" alt="image" src="https://github.com/user-attachments/assets/c63769af-8a6c-4123-be57-50dbf5eb7f71" />
 
 
