@@ -44,16 +44,19 @@ ___
 ## Reto 2 - Diseñando
 
 
-**Evidencia:
-- Diagrama de contexto:
+**Evidencia:**
+- **Diagrama de contexto:**
 <img width="1378" height="817" alt="image" src="https://github.com/user-attachments/assets/e7e05e1f-d174-4839-8425-5c66473e9bd0" />
-- Diagrama de Casos de uso:
+---
+- **Diagrama de Casos de uso:**
 <img width="922" height="828" alt="image" src="https://github.com/user-attachments/assets/9fe27ac2-bd90-48b5-8b51-9affcb4735b4" />
-- Historias de Usuario:
+---
+- **Historias de Usuario:**
 <img width="1389" height="484" alt="image" src="https://github.com/user-attachments/assets/809d53fd-7702-4c36-8471-b43f933b2091" />
-- Tabla de Excel:
+---
+- **Tabla de Excel:**
 <img width="771" height="320" alt="image" src="https://github.com/user-attachments/assets/aae45c66-684a-4fe4-a2e2-d4d94fac3fd8" />
-- Diagrama de Clases:
+- **Diagrama de Clases:**
 
 
 
