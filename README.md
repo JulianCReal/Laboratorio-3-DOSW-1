@@ -74,10 +74,6 @@ El más difícil de aplicar depende del equipo. Personalmente, el coraje suele s
 
 
 
-# Laboratorio 3 - Parte2
 
-### Reglas de negocio
+  
 
-- Cade número de cuenta debe tener una longitud de 10 dígitos
-- Cada número de cuenta no debe tener letras ni caracteres especiales, solo números.
-- Una cuenta solo es válida si los 2 primeros números corresponden a un banco registrado.
