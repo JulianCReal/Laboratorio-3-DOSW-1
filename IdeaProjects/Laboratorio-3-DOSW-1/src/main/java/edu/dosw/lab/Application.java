@@ -1,13 +1,12 @@
 package edu.dosw.lab;
-
+import edu.dosw.lab.reto3.Consenso;
 /**
  * Hello world!
  *
  */
-public class Application
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public class Application {
+    private static  Consenso consenso= new Consenso();
+    public static void main( String[] args ){
+            consenso.ejecutar();
     }
 }
