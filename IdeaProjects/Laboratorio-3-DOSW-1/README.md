@@ -43,7 +43,6 @@ ___
 
 ## Reto 2 - Diseñando
 
-
 **Evidencia:**
 - **Diagrama de contexto:**
 
@@ -68,6 +67,14 @@ ___
 ## Reto 3
 
 **Evidencia de funcionamiento**
+
+Adjuntamos la evidencia de que el código del reto 3 está funcionando de forma correcta y estimada.
+
+![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/fun1.png)
+
+![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/fun2.png)
+
+
 
 
 
