@@ -64,6 +64,8 @@ ___
 
 <img width="2594" height="1157" alt="image" src="https://github.com/user-attachments/assets/c63769af-8a6c-4123-be57-50dbf5eb7f71" />
 
+___
+
 ## Reto 3
 
 **Evidencia de funcionamiento**
@@ -73,6 +75,19 @@ Adjuntamos la evidencia de que el código del reto 3 está funcionando de forma 
 ![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/fun1.png)
 
 ![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/fun2.png)
+
+___
+## Reto 4 
+
+Se crean en total cinco clases que garantizan el funcionamiento del sistema de Bankify, siendo las más importantes:
+
+- **BankifyValidacion:** Se encarga de hacer la validación de cuentas junto con la consulta de cuentas y bancos.
+- **BankifyGestion:** Toma las validaciones que se hacen en la clase anterior y las usa para crear cuentas, consultarlas, consultar los saldos y realizar depósitos
+
+Todo lo anterior, se hace gracias a las otras clases de modelo que se crearon como lo son Cuenta, Cliente y Deposito. Por otro lado tenemos dos clases de pruebas para validar el funcionamiento y a continuación dejamos la evidencia del funcionamiento:
+
+![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/validacion.png)
+![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/gestion.png)
 
 
 
