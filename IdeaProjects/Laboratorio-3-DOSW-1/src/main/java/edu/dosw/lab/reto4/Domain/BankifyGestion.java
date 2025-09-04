@@ -1,9 +1,9 @@
-package edu.dosw.lab.reto4.Domain;
+package reto4.Domain;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import edu.dosw.lab.reto4.Util.RegistrarBancos;
+import reto4.Util.RegistrarBancos;
 
 public class BankifyGestion {
     private HashMap<String, BancoRegistrado> bancosRegistrados;

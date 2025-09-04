@@ -1,4 +1,4 @@
-package edu.dosw.lab.reto4.Domain;
+package reto4.Domain;
 
 import java.util.ArrayList;
 import java.util.HashSet;

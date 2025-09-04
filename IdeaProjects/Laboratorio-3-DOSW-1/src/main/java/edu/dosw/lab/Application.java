@@ -1,5 +1,5 @@
 package edu.dosw.lab;
-import edu.dosw.lab.reto3.Consenso;
+import reto3.Consenso;
 /**
  * Hello world!
  *
