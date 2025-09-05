@@ -182,6 +182,15 @@ Añadimos la Prueba del reto 3 y confirmamos de que las pruebas ya abarcan mas d
 <img width="732" height="1143" alt="image" src="https://github.com/user-attachments/assets/f8e0817f-016e-4f9a-bed6-62e5fc68b8c2" />
 <img width="1370" height="698" alt="image" src="https://github.com/user-attachments/assets/27ab7c4e-bdf8-446c-9194-c2709d253860" />
 
+## Reto 6
+Observamos que las pruebas en realidad no cubren el 85% del codgo por lo que nos toca modificar el pom.xml para poder correr el reporte
+
+<img width="883" height="244" alt="Captura de pantalla de 2025-09-04 23-41-42" src="https://github.com/user-attachments/assets/8219db6c-a697-4be7-bcde-7791a4fc3cf4" />
+
+**¿Por qué considera que es importante realizar pruebas a un software diseñado?**
+
+- Reflexion Karol:Porque con las pruebas uno se asegura de que el programa realmente funcione como debe, que no tenga errores raros, y también evita que en producción se caiga o falle.
+
 
   
 
