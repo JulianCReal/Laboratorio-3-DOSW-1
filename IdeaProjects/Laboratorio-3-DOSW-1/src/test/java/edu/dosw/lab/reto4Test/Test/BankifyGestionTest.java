@@ -1,7 +1,7 @@
-package edu.dosw.lab.reto4.Test;
+package Test;
 
-import edu.dosw.lab.reto4.Domain.*;
-import edu.dosw.lab.reto4.Util.RegistrarBancos;
+import reto4.Domain.*;
+import reto4.Util.RegistrarBancos;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import java.io.ByteArrayOutputStream;

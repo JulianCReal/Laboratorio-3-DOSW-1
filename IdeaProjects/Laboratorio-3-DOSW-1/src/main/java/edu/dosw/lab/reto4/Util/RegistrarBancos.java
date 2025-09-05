@@ -1,7 +1,7 @@
-package edu.dosw.lab.reto4.Util;
+package reto4.Util;
 
 import java.util.HashMap;
-import edu.dosw.lab.reto4.Domain.BancoRegistrado;
+import reto4.Domain.BancoRegistrado;
 
 /**
  * Clase encargada de registrar los bancos disponibles en el sistema.

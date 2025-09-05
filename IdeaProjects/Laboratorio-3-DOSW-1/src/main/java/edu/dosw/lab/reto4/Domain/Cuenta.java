@@ -1,4 +1,4 @@
-package edu.dosw.lab.reto4.Domain;
+package reto4.Domain;
 
 public class Cuenta {
     private String idCuenta;
