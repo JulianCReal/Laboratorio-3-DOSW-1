@@ -55,6 +55,7 @@ Sirve en la fase de análisis de requerimientos para entender y comunicar las ne
 - **Jacoco:** Herramienta para medir la cobertura de pruebas en el código.
 - **SonarQube:** Analiza la calidad del software (código duplicado, bugs, vulnerabilidades, cobertura, etc.) y presenta métricas de manera centralizada.
 
+
 ### G. Ventajas del Planning Poker
 - Permite que todo el equipo participe en la estimación.
 - Reduce el sesgo de autoridad o de grupo, ya que todos votan al mismo tiempo.
@@ -71,6 +72,99 @@ Los cinco valores son:
 5. Respeto
 
 El más difícil de aplicar depende del equipo. Personalmente, el coraje suele ser el más complejo, porque implica hablar de problemas abiertamente, cuestionar decisiones y asumir riesgos para mejorar.
+
+___
+
+# Parte 2
+
+Caso Bankify
+___
+## Reto 1 - Identificando los requerimientos
+
+### Reglas de Negocio
+1. Cada número de cuenta debe tener una longitud de 10 dígitos.
+2. El número de cuenta solo puede contener números; no se permiten letras ni caracteres especiales.
+3. Una cuenta solo es válida si los 2 primeros dígitos corresponden a un banco registrado.
+4. Se deben poder realizar operaciones financieras con las cuentas válidas.
+
+### Funcionalidades Principales
+
+1. **Gestión de cuentas de usuarios**
+  - Crear cuentas
+  - Consultar información de cuentas
+  - Validar cuentas
+
+2. **Operaciones bancarias básicas**
+  - Depositar dinero
+  - Consultar saldo
+  - Ver historial de transacciones
+
+3. **Validaciones y seguridad**
+  - Verificar la estructura del número de cuenta
+  - Confirmar que el banco emisor está registrado
+  - Asegurar consistencia en las operaciones
+
+### Actores Principales
+
+1. Bancos registrados
+2. Clientes de Bankify
+
+### Precondiciones
+
+1. Contar con una lista de bancos registrados.
+2. Para realizar un depósito o consultar saldo, la cuenta debe existir previamente.
+3. Validar que el número de cuenta sea único (no duplicado).
+4. La cuenta debe contener únicamente dígitos numéricos.
+5. El saldo de la cuenta debe ser mayor a 0.
+___
+
+## Reto 2 - Diseñando
+
+**Evidencia:**
+- **Diagrama de contexto:**
+
+<img width="1378" height="817" alt="image" src="https://github.com/user-attachments/assets/e7e05e1f-d174-4839-8425-5c66473e9bd0" />
+
+- **Diagrama de Casos de uso:**
+
+<img width="922" height="828" alt="image" src="https://github.com/user-attachments/assets/9fe27ac2-bd90-48b5-8b51-9affcb4735b4" />
+
+- **Historias de Usuario:**
+
+<img width="1389" height="484" alt="image" src="https://github.com/user-attachments/assets/809d53fd-7702-4c36-8471-b43f933b2091" />
+
+- **Tabla de Excel:**
+
+<img width="771" height="320" alt="image" src="https://github.com/user-attachments/assets/aae45c66-684a-4fe4-a2e2-d4d94fac3fd8" />
+
+- **Diagrama de Clases:**
+
+<img width="2594" height="1157" alt="image" src="https://github.com/user-attachments/assets/c63769af-8a6c-4123-be57-50dbf5eb7f71" />
+
+___
+
+## Reto 3
+
+**Evidencia de funcionamiento**
+
+Adjuntamos la evidencia de que el código del reto 3 está funcionando de forma correcta y estimada.
+
+![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/fun1.png)
+
+![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/fun2.png)
+
+___
+## Reto 4
+
+Se crean en total cinco clases que garantizan el funcionamiento del sistema de Bankify, siendo las más importantes:
+
+- **BankifyValidacion:** Se encarga de hacer la validación de cuentas junto con la consulta de cuentas y bancos.
+- **BankifyGestion:** Toma las validaciones que se hacen en la clase anterior y las usa para crear cuentas, consultarlas, consultar los saldos y realizar depósitos
+
+Todo lo anterior, se hace gracias a las otras clases de modelo que se crearon como lo son Cuenta, Cliente y Deposito. Por otro lado tenemos dos clases de pruebas para validar el funcionamiento y a continuación dejamos la evidencia del funcionamiento:
+
+![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/validacion.png)
+![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/gestion.png)
 
 
 
