@@ -1,4 +1,4 @@
-package reto4.Test;
+package Test;
 
 import reto4.Domain.*;
 import reto4.Util.RegistrarBancos;

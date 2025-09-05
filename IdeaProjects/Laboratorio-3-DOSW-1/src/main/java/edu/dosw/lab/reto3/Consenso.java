@@ -1,8 +1,8 @@
-package edu.dosw.lab.reto3;
+package reto3;
 
 import java.util.*;
 
-public class consenso {
+public class Consenso {
     private static final List<Integer> FIBONACCI = Arrays.asList(1, 2, 3, 5, 8, 13);
 
     public static void ejecutar() {
