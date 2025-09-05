@@ -191,7 +191,7 @@ Observamos que las pruebas en realidad no cubren el 85% del codgo por lo que nos
 
 - Reflexión Karol: Porque con las pruebas uno se asegura de que el programa realmente funcione como debe, que no tenga errores raros, y también evita que en producción se caiga o falle.
 - Reflexión Julian: Las pruebas y la cobertura permiten verificar que cada función cumpla su objetivo y que los cambios no afecten lo ya codificado, asegurando que se eviten fallas en el proyecto. 
-
+- Reflexión Juan Carlos: Es importante realizar pruebas al software para: Detectar errores antes de que lleguen a los usuarios finales, garantizar que funcione correctamente según los requisitos establecidos, reducir costos de corrección (es más barato arreglar bugs antes del lanzamiento), y mantener la confianza del usuario evitando fallos que puedan afectar su experiencia o causar pérdidas.Las pruebas aseguran calidad, confiabilidad y reducen riesgos operativos.
 
   
 
