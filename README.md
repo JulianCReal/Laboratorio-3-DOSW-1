@@ -189,7 +189,8 @@ Observamos que las pruebas en realidad no cubren el 85% del codgo por lo que nos
 
 **¿Por qué considera que es importante realizar pruebas a un software diseñado?**
 
-- Reflexion Karol:Porque con las pruebas uno se asegura de que el programa realmente funcione como debe, que no tenga errores raros, y también evita que en producción se caiga o falle.
+- Reflexión Karol: Porque con las pruebas uno se asegura de que el programa realmente funcione como debe, que no tenga errores raros, y también evita que en producción se caiga o falle.
+- Reflexión Julian: Las pruebas y la cobertura permiten verificar que cada función cumpla su objetivo y que los cambios no afecten lo ya codificado, asegurando que se eviten fallas en el proyecto. 
 
 
   
