@@ -166,7 +166,21 @@ Todo lo anterior, se hace gracias a las otras clases de modelo que se crearon co
 ![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/validacion.png)
 ![Captura](/IdeaProjects/Laboratorio-3-DOSW-1/docs/images/gestion.png)
 
+___
+## Reto 5
 
+Añadimos jacoco a pom.xml, junto con las condicion de que las pruebas deben estar al 85% min
+
+<img width="876" height="1187" alt="image" src="https://github.com/user-attachments/assets/976ba7a1-e9c1-4991-808f-9c2e07cccb16" />
+
+Al correr maven con el comando **mvn clean verify** tendremos el siguiente error por falta de pruebas
+
+<img width="1532" height="426" alt="image" src="https://github.com/user-attachments/assets/3c05a81f-3a14-417b-8399-265dfee9943c" />
+
+Añadimos la Prueba del reto 3 y confirmamos de que las pruebas ya abarcan mas del 85% de la extensión
+
+<img width="732" height="1143" alt="image" src="https://github.com/user-attachments/assets/f8e0817f-016e-4f9a-bed6-62e5fc68b8c2" />
+<img width="1370" height="698" alt="image" src="https://github.com/user-attachments/assets/27ab7c4e-bdf8-446c-9194-c2709d253860" />
 
 
   
